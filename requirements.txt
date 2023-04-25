@@ -1,4 +1,5 @@
 flask
 numpy
 sklearn
+scikit-learn
 gunicorn
